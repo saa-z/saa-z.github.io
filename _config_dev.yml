@@ -1,20 +1,20 @@
 
 # The name of your website.
-name: Holo Alfa
+name: Computer Science
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
+  meta: Website created by using Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
 
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/stijnvc/holo-alfa">&lt;/&gt; on Github</a>.
+  subtitle: Website created by using Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/stijnvc/holo-alfa">&lt;/&gt; on Github</a>.
 
 author:
-  name: Dr. Jekyll # Change this!
+  name: Salwa # Change this!
 
   # Necessary for contact page
-  email: your@email.com # Change this!
+  email: 181450188+saa-z@users.noreply.github.com # Change this!
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
