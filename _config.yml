@@ -1,6 +1,6 @@
 
 # The name of your website.
-name: Computer Science
+name: CS-Course 2
 
 description:
 
@@ -8,7 +8,7 @@ description:
   meta: Website created by using Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
 
   # Description of your site. This will show up on the front page.
-  subtitle: Website created by using Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/stijnvc/holo-alfa">&lt;/&gt; on Github</a>.
+  subtitle: Website created for the second course of a Computer Science Refresher, using the <a href="https://github.com/stijnvc/holo-alfa"> Holo Alfa </a> Jekyll theme available on Github.
 
 author:
   name: Salwa # Change this!
@@ -21,7 +21,7 @@ author:
   info:
 
 url: https://saa-z.github.io
-baseurl: "/holo-alfa"
+baseurl: ""
 
 # language attribute in <html> element.
 lang: en
