@@ -1,14 +1,18 @@
 # Holo Alfa Jekyll theme [![Build Status](https://travis-ci.org/steinvc/holo-alfa.svg?branch=master)](https://travis-ci.org/steinvc/holo-alfa) #
 
->This project is no longer maintained. It will probably still work fine though.
+<img width="1501" height="977" alt="image" src="https://github.com/user-attachments/assets/e9b4d91b-32c5-4bcd-b2a1-ecc164ec6177" />
 
-![Screenshot](http://i.imgur.com/Gi46aag.jpg)
 
-Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. Created for free and fun by Stijn. Also works great as a base to build your own theme on.
-
+Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. Created for free and fun by Stijn. 
 See it in action: http://steinvc.github.io/holo-alfa/.
 
-## Feature highlights ##
+I retrieve it to make it mine ! 
+See it in action: https://saa-z.github.io/
+
+## NEW FEATURE : LINK TO MY BUSINESS CARD : https://github.com/saa-z/CS_business_card/releases/latest/download/card.pdf
+
+
+## Feature highlights of the jekyll theme ##
 
 * Mobile first design
 * Extensive content styling
